@@ -2,7 +2,7 @@ Package.describe({
     name: 'taketime:basic-auth',
     version: '0.0.1',
     summary: 'Basic auth for Meteor',
-    git: '',
+    git: 'https://github.com/taketime/basic-auth-meteor',
     documentation: 'README.md'
 });
 
